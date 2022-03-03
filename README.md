@@ -4,7 +4,7 @@ by Amirhossein, aafshinfard@bcgsc.ca
 
 First download this repository and take a look at the powerpoint slides. Then start following the steps below.
 
-After all, I invite you to fork my repo into your account, add your name to the `group.txt` file, push that into your account, and open a pull request so I add your edits to my repo. Don't worry, you will soon learn what all the jargons in the previous sentence mean :).
+I also invite you to fork my repo into your account, add your name to the `group.txt` file, push that into your account, and open a pull request so I add your edits to my repo. Don't worry, you will soon learn what all the jargons in the previous sentence mean :).
 
 Contents
 ========
